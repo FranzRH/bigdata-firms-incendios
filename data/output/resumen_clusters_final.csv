@@ -1,0 +1,4 @@
+cluster,riesgo,total_incendios,lat_promedio,lon_promedio,brightness_promedio,frp_promedio,frp_maximo,confianza_promedio,proporcion_dia
+1,Alto,402062,18.8663,-95.7449,345.33,12.4,955.74,2.13,0.98
+2,Medio,215601,22.6971,-102.0043,341.46,11.66,1282.13,1.47,0.99
+0,Bajo,317049,20.8199,-99.5364,311.99,2.66,223.07,2.0,0.0
