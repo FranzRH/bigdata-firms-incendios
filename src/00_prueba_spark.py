@@ -15,10 +15,10 @@ columnas = ["pais", "anio", "incendios"]
 
 df = spark.createDataFrame(datos, columnas)
 
-print("=== DATAFRAME DE PRUEBA ===")
+print(" DATAFRAME DE PRUEBA ")
 df.show()
 
-print("=== CONTEO TOTAL ===")
+print(" CONTEO TOTAL ")
 print(df.count())
 
 spark.stop()
